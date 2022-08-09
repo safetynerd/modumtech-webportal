@@ -1,0 +1,44 @@
+[
+  {
+    "Appraisal_ID": "77421",
+    "Appraisal_Name": "198 Nassau Avenue Good DT 22Apr2022",
+    "Property_Type": "Apartments",
+    "Report_Type": "Sales Income And Cost Approach",
+    "Control_Details": [
+      {
+        "Control_Id": "Intended_User",
+        "Control_Type": "TextBox",
+        "Control_Label_Value": "Intended User",
+        "Control_Field_Value": "Polish & Slavic FCU and Business Lending",
+        "Control_Width": "172.08",
+        "Control_Height": "15.12",
+        "Control_Font_Style": "Minion Pro Regular",
+        "Control_Font_Size": "9"
+      },
+      {
+        "Control_Id": "Interior Walls",
+        "Control_Type": "TextBox",
+        "Control_Label_Value": "Interior Walls",
+        "Control_Field_Value": "Finished/Painted, Gypsum Board(Drywall, Sheetrock, etc.), Plaster",
+        "Control_Width": "172.8",
+        "Control_Height": "14.4",
+        "Control_Font_Style": "Minion Pro Regular",
+        "Control_Font_Size": "9"
+      },
+      {
+        "Control_Id": "SubjectSalePhoto",
+        "Control_Type": "Image",
+        "Control_Width": "356",
+        "Control_Height": "200",
+        "Control_URL": "https://maps.googleapis.com/maps/api/streetview?channel=Cars&size=480x480&location=198,Nassau,Avenue,Brooklyn,NY,11222&client=gme-patrickoconnorassociates&signature=iBOu_dADI_E-k8LfNmz_iY-LFm0="
+      },
+      {
+        "Control_Id": "ArialMapPhoto",
+        "Control_Type": "Image",
+        "Control_Width": "173",
+        "Control_Height": "122",
+        "Control_URL": "https://appraisal.enrichedrealestate.com/api/Image/GetFile?id=182928"
+      }
+    ]
+  }
+]
